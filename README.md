@@ -1,2 +1,1 @@
-# precourso-henrry
-es un repositorio de prueba
+es un repositorio para probar si funciona este curso
